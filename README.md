@@ -1,6 +1,7 @@
 # Website Development: Dynamically Generated Content Exercise
 Instructor: Bradley Holbrook
-Class Date: 
+
+Class Date: Oct 15, 2020
 
 ## Comments
 
